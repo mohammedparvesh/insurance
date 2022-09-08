@@ -1,7 +1,13 @@
 Parvesh is one of the good boy in the college and very knowledable
 
+<<<<<<< HEAD
 git init
 git add
 git commit
 git remote add origin 
 git push -u origin
+=======
+<head>
+hi iam parvesh
+<\head>
+>>>>>>> refs/remotes/origin/main
